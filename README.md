@@ -4,7 +4,7 @@ Example GitHub.io portfolio website
 
 
 
-\## Sub section
+## Sub section
 
-\*\*Stuff\*\*
+**Stuff**
 
