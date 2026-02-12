@@ -8,7 +8,7 @@ Hello, I am a freshman in college who is looking to learn more about computer sc
 
 I really enjoy music so I wanted to work on something that can incorporates coding and music. So I decided to create a music player that'll be able to play my music in a playlist. Looking up and learning about java's audio system was really interesting and I was able to create a music player within it.
 
-![](C:\Users\default.LAPTOP-PKL1FHMQ\Downloads\musicplayercode.png)
+![Music Player Code](/Images/musicplayercode.png)
 
 ## Future work
 
