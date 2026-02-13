@@ -10,7 +10,7 @@ I really enjoy music so I wanted to work on something that can incorporates codi
 
 ![Music Player Code](Images/musicplayercode.png)
 
-With this code, I was able to import my own music files and run them through the code to play my music within the system. I also incorporated a pause and resume function so that I could stop the music and play it again whenever I want to. By creating a list of the songs, I was able to make a next song and previous song method. Being able to skip through and go back to songs within my files. It was really fun getting this to work since I previously didn't even know java had an audio system.
+With this code, I was able to import my own music files and run them through the code to play my music within the system. I also incorporated a pause and resume function so that I could stop the music and play it again whenever I want to. By creating a list of the songs, I was able to make a next song and previous song method. Being able to skip through and go back to songs within my files. It was really fun getting this to work since I previously didn't even know java had an audio system. I'm still learning a lot about java so this was a good thing to work through.
 
 ## Future work
 
