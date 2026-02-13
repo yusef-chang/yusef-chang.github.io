@@ -20,7 +20,7 @@ This was the photo we were able to generate.
 
 ![Mandelbrot set image](Images/mandelbrot.png)
 
-Overall this project was really difficult to understand at first but after lots of trial and error, I felt like I was able to learn a bit more than I had knew previously before this. We learned how to write code into image files and ultimately how the mandelbrot set works, for the most part... It was a good attempt and I'm glad we persevered through it.\
+Overall this project was really difficult to understand at first but after lots of trial and error, I felt like I was able to learn a bit more than I had knew previously before this. We learned how to write code into image files and ultimately how the mandelbrot set works, for the most part... It was a good attempt and I'm glad we persevered through it.
 
 
 ### Music Player
